@@ -31,7 +31,7 @@
 
 ###
 
-<h3 align="center">🟢 What I do like (besides FAFO with things), though? As it turns out, a lot!<br>[Gaming] [Experimental Music] [History] [Science Fiction] [Historic Fiction] [Philosophy] [Hardware] and [Programming]!</h3>
+<h3 align="center">🟢 What I do like (besides FAFO with things), though? As it turns out, a lot!<br>[Gaming] [Experimental Music] [History] [Science Fiction]<br>[Historic Fiction] [Philosophy] [Hardware] and [Programming]!</h3>
 
 ###
 

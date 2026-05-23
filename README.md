@@ -1,7 +1,3 @@
-<h2 align="center">🟢 What Have I been doing, you ask? Well, not much, unfortunaly...</h2>
-
-###
-
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -23,6 +19,10 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=8C9403"  />
 </div>
+
+###
+
+<h2 align="center">🟢 What Have I been doing, you ask? Well, not much, unfortunaly...</h2>
 
 ###
 

@@ -52,7 +52,7 @@
 
 ###
 
-<h3 align="center">🟢 What Have I been doing, you ask? Well, not much, unfortunaly...</h3>
+<h3 align="center">🟢 What Have I been doing, you ask? Well, not much, but it's honest work</h3>
 
 ###
 

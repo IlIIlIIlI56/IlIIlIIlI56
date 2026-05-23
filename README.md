@@ -56,7 +56,7 @@
 
 ###
 
-<p align="left">The Hephaistos Project is a series of documents about alternative history i've made through the years, telling the history of a reality shaped by a fractured timeline of the 1930's of our own universe. there, i've to reshape history while following plausible rules, creting the most realistic timelines i can.<br><br>The website where it's all contained exists as a personal and creative forge where history is reinterpreted, rewritten and reinvented. Through small alterations in key events — a war that ended differently, someone who thinked diferently, a treaty that failed — a entire new world is born. One that, although familiar in some things, can be alien in others. All of it crafted with imagination grounded in realism.<br><br>If you’re interested in speculative fiction, alternate history, political worldbuilding, or simply want to explore how imagination can reshape the known world, then i'm happy to share Hephaistos with you!</p>
+<p align="left">The Hephaistos Project is a series of documents about alternative history i've made through the years, telling the history of a reality shaped by a fractured timeline of the 1930's of our own universe. there, i've to reshape history while following plausible rules, creting the most realistic timelines i can.<br><br>The website where it's all contained exists as a personal and creative forge where history is reinterpreted, rewritten and reinvented. Through small alterations in key events — a war that ended differently, someone who thinked diferently, a treaty that failed — a entire new world is born. One that, although familiar in some things, can be alien in others. All of it crafted with imagination grounded in realism.</p>
 
 ###
 
@@ -65,5 +65,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/IlIIlIIlI56/IlIIlIIlI56/pacman-output/galaga-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/IlIIlIIlI56/IlIIlIIlI56/pacman-output/galaga-contribution-graph.svg">
 </picture>
+
+###
+
+<p align="left">If you’re interested in speculative fiction, alternate history, political worldbuilding, or simply want to explore how imagination can reshape the known world, then i'm happy to share Hephaistos with you!</p>
 
 ---
